@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "react": "16.4.1",
-    "react-native": "^0.55.4",
+    "react-native": "^0.70.6",
     "react-native-appboy-sdk": "^1.13.0"
   }
 }
